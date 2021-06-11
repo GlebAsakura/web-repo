@@ -1,0 +1,2 @@
+print("Goodbye!");
+Ssystem.exit;
